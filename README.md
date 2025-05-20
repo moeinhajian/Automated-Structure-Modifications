@@ -9,5 +9,5 @@ Python codes Using ASE, Pymatgen, and etc.
 
 
 
-### Explore and extend these workflows for my materials‑science pipelines.
+### I explore and extend these workflows for my materials‑science pipelines.
 
